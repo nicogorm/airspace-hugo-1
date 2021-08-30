@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: deer
+  bg_image: ''
   bg_overlay: true
   title: Deer of SIU
   content: We love the Web and the work we do.We work closely with our clients to
@@ -92,4 +92,3 @@ funfacts:
       make us stand out from the crowd.
 
 ---
-![](/images/deer-2018.jpeg "deer")
